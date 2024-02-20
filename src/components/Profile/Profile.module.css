@@ -1,11 +1,10 @@
 .profile {
   width: 400px;
   overflow: hidden;
+  margin-bottom: 40px;
 
   border: 1px solid #b8bec9;
-
   border-radius: 5px;
-
   background-color: white;
 }
 
