@@ -1,7 +1,7 @@
 .transactionHistory {
   width: 350px;
 
-  background-color: #00bcd5;
+  background-color: rgba(34, 60, 80, 0.2);
 
   border-collapse: separate;
   border-spacing: 5px 5px;
@@ -13,4 +13,15 @@
 
 th {
   border-radius: 10px;
+}
+
+.transactionHistory thead {
+  height: 50px;
+
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: 700;
+  color: #fff;
+
+  background-color: #00bcd5;
 }

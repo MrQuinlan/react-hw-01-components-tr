@@ -1,5 +1,4 @@
-import css from './TransactionItem.module.css';
-
+import './TransactionItem.module.css';
 const TransactionItem = ({ type, amount, currency }) => {
   return (
     <tr>
