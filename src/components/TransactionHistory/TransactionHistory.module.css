@@ -1,0 +1,16 @@
+.transactionHistory {
+  width: 350px;
+
+  background-color: #00bcd5;
+
+  border-collapse: separate;
+  border-spacing: 5px 5px;
+
+  border-radius: 10px;
+
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+th {
+  border-radius: 10px;
+}
